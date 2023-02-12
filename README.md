@@ -39,5 +39,5 @@
 #### Run the file, check and alter the code in any different solutions.
 #### As if in teh final result, the shape of wordcloud is not visually following the given image.
 #### Please recheck the quality of the image, or the re-edit styles in "GEN_WORDCLOUD" - "main.py"
-<img src="./python.png">
+<img src="https://i.pinimg.com/originals/f5/4c/a7/f54ca7c3d298d072b22420ddc7251ac6.jpg">
 ## THE - END
